@@ -1,22 +1,23 @@
-## Мои навыки:
-<img width="1910" height="984" alt="image" src="https://storage.tally.so/551f6f1e-00a2-4a15-9c33-b40ca5c84113/Git-Logo-2Color.png" />
-<img width="1910" height="984" alt="image" src="https://storage.tally.so/3a4c5a2e-a412-41b4-bad5-61899c529461/4515839.png" />
-<img width="1910" height="984" alt="image" src="https://storage.tally.so/3f9bac6c-8fd5-40ae-a50b-096d362d2fe8/136443.png" />
-<img width="1910" height="984" alt="image" src="https://storage.tally.so/46c3a05e-ef49-4477-bfc2-61b06e136b3a/telegram-bot.png" />
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/6b053e87-e0cb-4b1c-9ba0-6d64ce2b8075" />
+# Hello, I'm Alikhan (A.K.A. Dezzan) — Full-Stack Developer
 
+I am a 15-year-old developer with a solid background in building versatile web applications. My focus is on combining thoughtful design with reliable system architecture. You can explore the variety of projects I have built in my repositories below.
 
-<!--
-**MrDezzan/MrDezzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Focus Areas
+* **Web Development:** Building full-stack web applications for diverse use cases.
+* **AI Integration:** Implementing artificial intelligence into practical products to make advanced technologies accessible to everyday users.
+* **Architecture & UI:** Delivering clean, intuitive design paired with robust, scalable backend systems.
 
-Here are some ideas to get you started:
+### Core Languages
+* Python, JavaScript, TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks & Technologies
+* **Backend & APIs:** Django, FastAPI, Flask, REST API
+* **Frontend:** React (JS/TS)
+* **Integrations:** Telegram Bot API, Discord API
+* **Machine Learning:** Deep Learning (ML)
+
+### Databases
+* PostgreSQL, MySQL, SQLite, Supabase
+
+### Links
+* **Portfolio Website:** Coming soon
