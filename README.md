@@ -1,4 +1,4 @@
-# Hello, I'm Alikhan (A.K.A. Dezzan) — Full-Stack Developer
+# Hello, I'm Alikhan — Full-Stack Developer
 
 I am a 15-year-old developer with a solid background in building versatile web applications. My focus is on combining thoughtful design with reliable system architecture. You can explore the variety of projects I have built in my repositories below.
 
