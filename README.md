@@ -1,23 +1,20 @@
-# Hello, I'm Alikhan — Full-Stack Developer
+# Hi, I'm Alikhan
 
-I am a 15-year-old developer with a solid background in building versatile web applications. My focus is on combining thoughtful design with reliable system architecture. You can explore the variety of projects I have built in my repositories below.
+I'm 15 and I build web apps and Telegram bots, mostly with AI inside. I like working on the whole thing: the backend, the interface and the part where a real person tries to use it.
 
-### Focus Areas
-* **Web Development:** Building full-stack web applications for diverse use cases.
-* **AI Integration:** Implementing artificial intelligence into practical products to make advanced technologies accessible to everyday users.
-* **Architecture & UI:** Delivering clean, intuitive design paired with robust, scalable backend systems.
+## Projects
 
-### Core Languages
-* Python, JavaScript, TypeScript
+- **[Talap.ai](https://github.com/MrDezzan/talap.ai-project)**: an AI assistant that helps students pick a career path, find grants and follow a step-by-step roadmap.
+- **[Businessly](https://github.com/MrDezzan/Businessly)**: customer support for Telegram businesses. GigaChat answers clients, and an operator can jump into the dialog. FastAPI and React.
+- **[Sun Proactive](https://github.com/MrDezzan/Sun-Proactive)**: matches volunteers with social projects and checks their work. Next.js, Fastify, PostgreSQL.
+- **[AqylQala](https://github.com/MrDezzan/AqylQala)**: a Gov-Tech platform for Almaty that connects residents with the city administration through a local AI model.
+- **[savasz](https://github.com/MrDezzan/savasz)**: a community site with a forum, wiki, leaderboard, map and 3D skin viewer. Next.js and Three.js.
+- **[FutureMeBot](https://github.com/MrDezzan/FutureMeBot)** and **[GrowingPoke](https://github.com/MrDezzan/GrowingPoke)**: Telegram bots, one for choosing a profession and one a multiplayer tamagotchi.
 
-### Frameworks & Technologies
-* **Backend & APIs:** Django, FastAPI, Flask, REST API
-* **Frontend:** React (JS/TS)
-* **Integrations:** Telegram Bot API, Discord API
-* **Machine Learning:** Deep Learning (ML)
+## Stack
 
-### Databases
-* PostgreSQL, MySQL, SQLite, Supabase
-
-### Links
-* **Portfolio Website:** Coming soon
+- **Languages:** Python, JavaScript, TypeScript
+- **Backend:** FastAPI, Django, Flask, Fastify, REST APIs
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Databases:** PostgreSQL, MySQL, SQLite, Supabase
+- **Integrations:** Telegram Bot API, Discord API, LLM APIs
