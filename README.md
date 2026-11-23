@@ -8,7 +8,7 @@ I'm 15 and I build web apps and Telegram bots, mostly with AI inside. I like wor
 - **[Businessly](https://github.com/MrDezzan/Businessly)**: customer support for Telegram businesses. GigaChat answers clients, and an operator can jump into the dialog. FastAPI and React.
 - **[Sun Proactive](https://github.com/MrDezzan/Sun-Proactive)**: matches volunteers with social projects and checks their work. Next.js, Fastify, PostgreSQL.
 - **[AqylQala](https://github.com/MrDezzan/AqylQala)**: a Gov-Tech platform for Almaty that connects residents with the city administration through a local AI model.
-- **[savasz](https://github.com/MrDezzan/savasz)**: a community site with a forum, wiki, leaderboard, map and 3D skin viewer. Next.js and Three.js.
+- **[Sylvaire Website](https://github.com/MrDezzan/sylvaire-website)**: a Minecraft community site with a forum, wiki, leaderboard, map and 3D skin viewer. Next.js and Three.js.
 - **[FutureMeBot](https://github.com/MrDezzan/FutureMeBot)** and **[GrowingPoke](https://github.com/MrDezzan/GrowingPoke)**: Telegram bots, one for choosing a profession and one a multiplayer tamagotchi.
 
 ## Stack
