@@ -1,4 +1,6 @@
-# Hi, I'm Alikhan
+# Hi, I'm Alikhan Dalikhan
+
+**Website:** [alikhandalikhan.com](https://alikhandalikhan.com)
 
 I'm 15 and I build web apps and Telegram bots, mostly with AI inside. I like working on the whole thing: the backend, the interface and the part where a real person tries to use it.
 
