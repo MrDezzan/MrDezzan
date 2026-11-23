@@ -4,7 +4,7 @@ I'm 15 and I build web apps and Telegram bots, mostly with AI inside. I like wor
 
 ## Projects
 
-- **[Talap.ai](https://github.com/MrDezzan/talap.ai-project)**: an AI assistant that helps students pick a career path, find grants and follow a step-by-step roadmap.
+- **[Talap.ai](https://github.com/MrDezzan/talap-ai)**: an AI assistant that helps students pick a career path, find grants and follow a step-by-step roadmap.
 - **[Businessly](https://github.com/MrDezzan/Businessly)**: customer support for Telegram businesses. GigaChat answers clients, and an operator can jump into the dialog. FastAPI and React.
 - **[Sun Proactive](https://github.com/MrDezzan/Sun-Proactive)**: matches volunteers with social projects and checks their work. Next.js, Fastify, PostgreSQL.
 - **[AqylQala](https://github.com/MrDezzan/AqylQala)**: a Gov-Tech platform for Almaty that connects residents with the city administration through a local AI model.
